@@ -1,2 +1,2 @@
-# Hashcode2021
+# Hashcode2021 - Team WindowMakers
 python .\main.py
